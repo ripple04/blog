@@ -2,7 +2,7 @@
 layout: post
 title: 置頂
 comments: true
-date: 3014-01-01 7:00
+date: 3104-01-01 7:00
 author: ripple
 ---
 
@@ -24,3 +24,4 @@ author: ripple
 gw2 FA 不入公會路人組合 <br>
 手遊一直線、二次元偶像也是心靈支柱(!!!)<br>
 生活目標每季都在改變:3 想往更理想的人邁進(!!!!)(雖然偶爾也會退後(小聲說
+
