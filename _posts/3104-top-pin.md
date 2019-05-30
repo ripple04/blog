@@ -4,6 +4,8 @@ title: 置頂
 comments: true
 date: 3104-01-01
 author: ripple
+categories:
+  - Day
 ---
 
 ### 置頂
