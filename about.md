@@ -15,7 +15,7 @@ sidebar_link: true
 雖然成了社畜<br>
 少了時間<br>
 加了責任<br>
-但也多了錢，想要有更多追求(!!!!!)<br>
+但也多了錢、想要有更多追求(!!!!!)<br>
 
 <p class="message">
 日常<br>
