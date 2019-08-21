@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            文字堆積處
+title:            文字堆
 #tagline:          'A Jekyll theme'
 description:      'Just note'
 url:              https://ripple04.github.io/blog/
